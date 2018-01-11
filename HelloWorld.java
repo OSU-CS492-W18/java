@@ -14,6 +14,11 @@ class HelloWorld {
   }
 }
 
+/*
+ * We can have multiple classes defined within a single file.  Each of them
+ * can have a main() function.  When we compile this file, one .class file
+ * will be generated for each of the classes it contains.
+ */
 class SomethingElse {
   public static void main(String[] args) {
     System.out.println("Something else!");
