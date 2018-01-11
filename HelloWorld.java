@@ -9,7 +9,7 @@ class HelloWorld {
     short sh = 2;
     int in = 4;
     long lo = 8;
-    float fl = 32.0;
+    float fl = 32.0f;
     double db = 64.0;
   }
 }

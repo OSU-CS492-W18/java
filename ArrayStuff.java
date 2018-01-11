@@ -17,6 +17,7 @@ class ArrayStuff {
      */
     // arr[1000] = 10;
 
+    // We can use the length property to get the length of an array.
     for (int i = 0; i < arr.length; i++) {
       arr[i] = i * i;
     }
